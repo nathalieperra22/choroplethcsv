@@ -1,6 +1,6 @@
-Borough,TreePop,Lat,Lon
-Bronx,137115,40.84,-73.87
-Brooklyn,173063,40.65,-73.95
-Manhattan,64229,40.7831,-73.98
-Queens,241414,40.72,-73.77
-StatenIsland,103313,40.58,-74.15
+Borough,TreePop,Lat,Lon,AirQuality
+Bronx,137115,40.84,-73.87,18.42
+Brooklyn,173063,40.65,-73.95,18.48
+Manhattan,64229,40.7831,-73.98,24.35
+Queens,241414,40.72,-73.77,17.65
+StatenIsland,103313,40.58,-74.15,13.47
